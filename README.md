@@ -1,0 +1,3 @@
+                                                     Filter CSV by age
+
+This project is a C program that filters rows from a CSV file based on age. The program reads names and ages from input, checks whether each age is less than or equal to the maximum age given by the user, and only keeps the rows that match this condition. The input can come from a CSV file or directly from the terminal, and the output can either be written to another file or printed in the terminal. The program also includes basic error handling for missing ages, invalid ages, missing lines, and files that cannot be opened.
